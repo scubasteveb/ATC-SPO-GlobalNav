@@ -24,7 +24,7 @@ public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceW
 
     string siteUrl = "https://smbconcurrency.sharepoint.com/sites/globalnav/";  
     string userName = "admin@smbconcurrency.onmicrosoft.com";  
-    string password = "Breanna99";  
+    string password = "8888";  
     OfficeDevPnP.Core.AuthenticationManager authManager = new OfficeDevPnP.Core.AuthenticationManager();  
     try  
     {  
